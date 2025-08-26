@@ -45,7 +45,6 @@ pyparsing == 3.2.3
 pytz == 2025.2
 simplejson == 3.20.1
 six == 1.17.0
-socks == 1.7.1
 soupsieve == 2.7
 tornado == 6.4.2
 traitlets == 5.7.1
