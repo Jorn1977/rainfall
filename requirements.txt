@@ -14,7 +14,7 @@ charset_normalizer == 3.4.3
 click == 8.2.1
 cloudpickle == 3.1.1
 cycler == 0.12.1
-dateutil == 2.9.0
+dateutil == 2.9.0.post0
 debugpy == 1.8.15
 decorator == 4.4.2
 defusedxml == 0.7.1
