@@ -52,6 +52,5 @@ urllib3 == 2.5.0
 wcwidth == 0.2.13
 webencodings == 0.5.1
 xarray == 2025.8.0
-zmq == 26.2.1
 zstandard == 0.24.0
 numpy == 2.0.1
